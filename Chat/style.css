@@ -1,0 +1,18 @@
+body{background-color:#142bdc;}
+#main{
+	height=450px;
+	background-color:white;
+	margin-top:100px;
+	
+	
+}
+#info{ 
+	margin-left:20px;
+	padding-top:2px;
+}
+input[type=text]{
+	width:260px;
+	box-sizing:border-box;
+	border:2px solid #142bdc;
+	bolder-radius:4px;
+}
